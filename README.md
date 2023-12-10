@@ -24,7 +24,7 @@ To get started with running the Jupyter Notebook, follow these steps:
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/jjg5fg/Bayesian-Modeling-of-MLB-Data.git
-   cd your-repository
+   cd Bayesian-Modeling-of-MLB-Data
 2. **Install Dependsencies**
     ```bash
     pip install -r requirements.txt
